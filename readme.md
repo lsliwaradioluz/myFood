@@ -7,7 +7,7 @@ Sign up to the app. The sign in and start creating your own food journal. Choose
 You can also check your BMI and calculate your BMR (Basal Metabolic Rate) to see how many calories you should consume on a daily basis.
 
 # Screenshots
-![screenshot](https://github.com/lsliwaradioluz/typing-speed-test/blob/gh-pages/typingtest-screenshot.jpg)
+![screenshot](https://github.com/lsliwaradioluz/myFood/blob/gh-pages/myfood-screenshot.jpg)
 
 # Technologies 
   * HTML5
